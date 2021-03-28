@@ -24,7 +24,7 @@ Create a `.clasp.json` in the root of the project that looks like this
 ```
 
 ## Development
-[src/addon.js](src/addon.js) is the main entrypoint of the application, add your code there!
+[src/addon.js](src/addon.js) is the main entrypoint of the application
 
 Be sure to add functions that you want Google Apps Script to see to the global variable created at the top of the file.
 
