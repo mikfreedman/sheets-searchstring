@@ -1,14 +1,6 @@
-# testable-apps-script
+# sheets-searchstring
 
-Developing code for [Google Apps Script](https://developers.google.com/apps-script) can be fun, but not being able to test things or use a regular javascript pipeline can be quite annoying.
-
-This project uses a combination of 
-
-* [Webpack](https://webpack.js.org/)
-* [Karma](https://karma-runner.github.io/latest/index.html) / [Jasmine](https://jasmine.github.io)
-* [Google Clasp](https://github.com/google/clasp)
-
-To create a workable javascript pipeline for your [V8 Apps Script](https://developers.google.com/apps-script/guides/v8-runtime) project.
+Scripts associated to (PROJECT: SearchString.io - Mik)[https://docs.google.com/spreadsheets/d/1o9xpY1G3MvhTwO4ue4w8xTbbk0hyEXgx6Ounc04xveY/edit#gid=0]
 
 ## Installation
 

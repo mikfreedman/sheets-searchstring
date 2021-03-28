@@ -1,7 +1,7 @@
 {
-  "name": "testable-apps-script",
+  "name": "sheets-searchstring",
   "version": "1.0.0",
-  "description": "Testable Apps Script",
+  "description": "(Sheets) SearchString",
   "scripts": {
     "build": "webpack",
     "test": "yarn run eslint src/**.js && karma start",
@@ -9,7 +9,7 @@
     "deploy": "node_modules/.bin/clasp push"
   },
   "private": true,
-  "repository": "https://github.com/mikfreedman/testable-apps-script",
+  "repository": "https://github.com/mikfreedman/sheets-searchstring",
   "author": "Michael Freedman",
   "license": "MIT",
   "dependencies": {
