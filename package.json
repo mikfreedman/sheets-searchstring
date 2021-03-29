@@ -11,7 +11,7 @@
   "private": true,
   "repository": "https://github.com/mikfreedman/sheets-searchstring",
   "author": "Michael Freedman",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "@google/clasp": "^2.3.0",
     "gas-webpack-plugin": "^1.2.0",

@@ -22,7 +22,7 @@ module.exports = {
         repo: {repository}
         {name} v{version}
         (c) 2017-{year} {author}
-        Released under the {license}.
+        {license}
 **********************************************************************`,
             default(data) {
                 return {
